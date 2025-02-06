@@ -1,24 +1,50 @@
-#countLabel{
-    display: block;
-    text-align: center;
-    font-size: 10em;
-    font-family: Helvetica;
+body{
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 0%, 95%);
 }
 
-#buttons-container{
+#container{
     text-align: center;
+    background-color: white;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 0%, 0.6);
 }
 
-.button{
-    padding: 10px 20px;
+label{
+    font-size: 1.1em;
+}
+
+#textBox{
+    margin: 15px;
+    text-align: center;
     font-size: 1.5em;
+    border: 2px, solid;
     border-radius: 5px;
-    color: white;
-    background-color: rgb(153, 218, 248);
-    cursor: pointer;
-    transition: background-color 0.25s;
+    width: 50%;
 }
 
-.button:hover{
-    background-color: rgb(32, 180, 248);
+button{
+    font-size: 1.6em;
+    padding: 5px 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(180, 100%, 45%);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsl(180, 100%, 55%);
+}
+
+button:active{
+    background-color: hsl(180, 100%, 40%);
+}
+
+#result{
+    font-size: 1.5em;
+    margin-top: 15px;
 }
