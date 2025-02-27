@@ -26,6 +26,7 @@ body{
     border-radius: 50%;
     display: inline-block;
     border: solid gray;
+    border-width: 4px;
     display: flex;
     justify-content: center;
     align-items: center;
