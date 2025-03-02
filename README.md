@@ -22,6 +22,7 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 If you want to explore these projects locally, follow these steps:<br>
 1. `git clone https://github.com/danluchin1/JavaScript-projects`
 2. `cd JavaScript-projects`<br>
+
 Then, navigate to the desired project folder and open index.html in your browser.
 
 ## **Contributions 🤝**
