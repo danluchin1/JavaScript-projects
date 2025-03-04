@@ -6,7 +6,7 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 
 | Project | Source Code | Live Preview |
 |---------|------------|-------------|
-| **Age Calculator** 🕰️                                                   | [View Code](age_calculator) | [Live Demo](https://danluchin1agecalculator.netlify.app/) |
+| **Age Calculator** 🕰️ | [View Code](age_calculator)                     | [Live Demo](https://danluchin1agecalculator.netlify.app/)                               |
 | **Dice Roller** 🎲 | [View Code](dice_roller)                           | [Live Demo](https://luchindan1diceroller.netlify.app/)                                  |
 | **Guessing Game** 🎯 | [View Code](guessing_game)                       | [Live Demo](https://danluchin1guessinggame.netlify.app/)                                |
 | **Loading Bar** ⏳ | [View Code](loading_bar)                           | [Live Demo](https://danluchin1loadingbar.netlify.app/)                                  |
@@ -16,6 +16,7 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 | **Random Quote Generator** 📝 | [View Code](random_quote_generator)     | [Live Demo](https://danluchin1randomquotegenerator.netlify.app/)                        |
 | **Rock Paper Scissors Game** ✊✋✌️ | [View Code](rock_paper_scissors) | [Live Demo](https://danluchin1rockpaperscissors.netlify.app/)                           |
 | **Temperature Converter** 🌡️ | [View Code](temperature_conversion)      | [Live Demo](https://danluchin1temperatureconversion.netlify.app/)                       |
+| **To-Do List** 📃| [View Code](todo_list)                               | [Live Demo](https://danluchin1todolist.netlify.app/)                                    |
 
 ## **Running Locally**
 
