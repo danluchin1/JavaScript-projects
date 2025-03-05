@@ -17,7 +17,8 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 | **Temperature Converter** 🌡️ | [View Code](temperature_conversion)      | [Live Demo](https://danluchin1temperatureconversion.netlify.app/)                       |
 | **To-Do List** 📃| [View Code](todo_list)                               | [Live Demo](https://danluchin1todolist.netlify.app/)                                    |
 | **Image Slider** 🖼️| [View Code](image_slider)                          | [Live Demo](https://danluchin1imageslider.netlify.app/)                                 |
-| **Digit Clock** ⏱️| [View Code](digital_clock)                          | [Live Demo](https://danluchin1digitalclock.netlify.app/)                                |
+| **Digit Clock** 🕰️| [View Code](digital_clock)                          | [Live Demo](https://danluchin1digitalclock.netlify.app/)                                |
+| **Stopwatch** ⏱️| [View Code](stopwatch)                                | [Live Demo](https://danluchin1stopwatch.netlify.app/)                                   |
 
 ## **Running Locally**
 
