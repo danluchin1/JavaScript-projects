@@ -10,7 +10,6 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 | **Dice Roller** 🎲 | [View Code](dice_roller)                           | [Live Demo](https://luchindan1diceroller.netlify.app/)                                  |
 | **Guessing Game** 🎯 | [View Code](guessing_game)                       | [Live Demo](https://danluchin1guessinggame.netlify.app/)                                |
 | **Loading Bar** ⏳ | [View Code](loading_bar)                           | [Live Demo](https://danluchin1loadingbar.netlify.app/)                                  |
-| **Number Generator** 🔢 | [View Code](number_generator)                 | [Live Demo](https://danluchin1numbergenerator.netlify.app/)                             |
 | **Password Generator** 🔐 | [View Code](password_generator)             | [Live Demo](https://danluchin1passwordgenerator.netlify.app/)                           |
 | **Progress Steps** 📶 | [View Code](progress_steps)                     | [Live Demo](https://danluchin1progresssteps.netlify.app/)                               |
 | **Random Quote Generator** 📝 | [View Code](random_quote_generator)     | [Live Demo](https://danluchin1randomquotegenerator.netlify.app/)                        |
