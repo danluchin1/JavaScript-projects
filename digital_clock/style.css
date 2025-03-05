@@ -1,0 +1,43 @@
+body{
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("images/image1.jpg");
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+div.container{
+    background-color: rgba(113, 241, 250, 0.3);
+    
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+}
+
+div.text{
+    background-color: rgba(66, 195, 247, 0.7);
+    width: 100px;
+    text-align: center;
+    height: 20px;
+    padding: 5px;
+    font-size: 19px;
+}
+
+.clock-container{
+    display: flex;
+    gap: 10px;
+    font-size: 80px;
+}
+
+.text-container{
+    display: flex;
+    gap: 10px;
+    font-weight: bold;
+}
