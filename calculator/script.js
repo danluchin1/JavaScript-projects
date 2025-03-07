@@ -27,11 +27,11 @@ function clearDisplay(){
     display.value = "";
 }
 
-function tokenize(expression){
-    const regex = /\d+(\.\d+)?|[+\-*/]/g;
-    return expression.match(regex);
-}
-
 function calculate(){
-    display.value = eval(display.value);
+    try{
+        display.value = eval(display.value);
+    }
+    catch(error){
+        display.value = "Error";
+    }
 }
