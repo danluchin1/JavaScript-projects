@@ -19,6 +19,7 @@ A collection of small yet fun JavaScript projects designed to improve coding ski
 | **Image Slider** 🖼️| [View Code](image_slider)                          | [Live Demo](https://danluchin1imageslider.netlify.app/)                                 |
 | **Digit Clock** 🕰️| [View Code](digital_clock)                          | [Live Demo](https://danluchin1digitalclock.netlify.app/)                                |
 | **Stopwatch** ⏱️| [View Code](stopwatch)                                | [Live Demo](https://danluchin1stopwatch.netlify.app/)                                   |
+| **Calculator** 🔢| [View Code](calculator)                              | [Live Demo](https://danluchin1calculator.netlify.app/)                                  |
 
 ## **Running Locally**
 
