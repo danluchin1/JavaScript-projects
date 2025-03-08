@@ -28,11 +28,14 @@ function handleClick(event){
     const cell = event.target;
     if(cell.textContent === ""){
         updateCell(cell);
-        if(!checkWinner()){
-            currentPlayer = (currentPlayer === "X") ? "O" : "X";
-            result.textContent = `${currentPlayer}'s turn`;
+        if(checkWinner(currentPlayer)){
+            return;
         }
-        checkDraw();
+        if(checkDraw()){
+            return;
+        }
+        currentPlayer = (currentPlayer === "X") ? "O" : "X";
+        result.textContent = `${currentPlayer}'s turn`;
     }
 }
 
@@ -40,13 +43,13 @@ function updateCell(cell){
     cell.textContent = currentPlayer;
 }
 
-function checkWinner(){
+function checkWinner(player){
     for(const winCase of winCases){
         const [a, b, c] = winCase;
-        if(cells[a].textContent === currentPlayer &&
-            cells[b].textContent === currentPlayer &&
-            cells[c].textContent === currentPlayer){
-                result.textContent = `${currentPlayer} won!`;
+        if(cells[a].textContent === player &&
+            cells[b].textContent === player &&
+            cells[c].textContent === player){
+                result.textContent = `${player} won!`;
                 disableClicks();
                 return true;
             }
